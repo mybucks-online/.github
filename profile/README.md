@@ -6,7 +6,7 @@ As a hash function, the **scrypt** Key Derivation Function (KDF) increases the c
 
 It fully runs on **your browser side** without using any storage or invoking any 3rd-party APIs for key management. It instantly generates your private key from your password input, and whenever you close or refresh, there is no footprint. This absolutely protects your privacy.
 
-With mybucks.online, you can send cryptocurrency and even **wallet itself** via a URL. The recipient simply clicks the link to open the wallet and take full ownership.
+With mybucks.online, you can send cryptocurrency and even **wallet itself** via a URL. The recipient simply clicks the link to open the wallet and take full ownership. This makes **gifting and airdropping** very easy.
 
 Try this link to the demo wallet:  
 https://app.mybucks.online/?wallet=VWnsSGRGVtb0FjY291bnQ1JgIxMTIzMjQCb3B0aW1pc20=_wNovT
