@@ -22,4 +22,4 @@ This wallet entirely runs on your **browser side** without using any storage or 
 With mybucks.online, you can send cryptocurrency and even **wallet itself** via a URL. The recipient simply clicks the link to open the wallet and take full ownership. This makes **gifting and airdropping** very easy.
 
 Try this link to the demo wallet:  
-https://app.mybucks.online/?wallet=VWnsSGRGVtb0FjY291bnQ1JgIxMTIzMjQCb3B0aW1pc20=_wNovT
+https://app.mybucks.online/#wallet=VWnsSGRGVtb0FjY291bnQ1JgIxMTIzMjQCb3B0aW1pc20=_wNovT
