@@ -1,24 +1,9 @@
-[Mybucks.online](https://mybucks.online) is a **seedless, disposable crypto wallet** designed for **speed and convenience**. It is fully self-custodial, browser-based, and completely decentralized.
+[Mybucks.online](https://mybucks.online) is a **digital cash envelope** for the internet—a Web3 utility for one-time use, gifting, and easy onboarding. Create a wallet, fund it, hand it off, and move on. It is **not** a fortress wallet like MetaMask: it does not connect to dApps, compete with your daily wallet, or serve as a vault for high-value assets or long-term savings.
 
-This wallet entirely runs on your **browser side** without using any storage or invoking any 3rd-party APIs for key management. It instantly generates your private key from your **passphrase and PIN**, and whenever you close or refresh, there is **no footprint**. This absolutely protects your privacy.
+Technically, the product implements a **seedless, disposable wallet** framework. It enables **1-click gifting** by deriving a private key from your passphrase and PIN using an industry-standard one-way hash and **Scrypt** KDF.
 
-With mybucks.online, you can send cryptocurrency and even **wallet itself** via a URL. The recipient simply clicks the link to open the wallet and take full ownership. This makes **gifting and airdropping** very easy.
+It runs entirely **in your browser** without storage or third-party APIs for key management. Your key is generated from your inputs and cleared when you close or refresh—**no footprint**, no servers, no tracking.
 
-Try this link to the demo wallet:  
-https://app.mybucks.online/#wallet=VWnsSGRGVtb0FjY291bnQ1JgIxMTIzMjQCb3B0aW1pc20=_wNovT
+With Mybucks.online, you can send cryptocurrency—and even **the envelope itself—via a URL**. The recipient clicks the link to claim full ownership, without you asking for a wallet address. Perfect for **micro-gifting**, **airdrops**, **creator tipping**, and **bulk distribution**.
 
-
-## Key Points
-- Zero Footprint
-- Fast and Easy to Use
-- 1-Click Gifting
-
-
-## How to Use
-
-1. Visit `app.mybucks.online`.
-2. Input your passphrase and PIN.  
-  Test credentials:  
-    passphrase: **DemoAccount5&**  
-    PIN: **112324**
-3. Click `Open`.
+[p2p.gifts](https://p2p.gifts) is a browser-only **P2P crypto gifting wizard** built on the same stack: create a one-time wallet, fund it, and share a branded gift card with QR code. No signup, no app install.
